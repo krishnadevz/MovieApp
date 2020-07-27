@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Live Preview
+## Live Preview click below Link(URL)
 [Live Preview of App](https://movieaoapp.netlify.app/)
 
 ## Things You need to install 
