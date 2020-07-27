@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Live Preview
+[Live Preview of App](https://movieaoapp.netlify.app/)
+
+## Things You need to install 
+* PropTypes
+* React reach router
+* styed-components
+* react-fontawesome
+
 ## Available Scripts
 
 In the project directory, you can run:
